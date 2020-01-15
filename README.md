@@ -1,0 +1,1 @@
+This is the first nano step of using [Apache CouchDB©] (http://docs.couchdb.org/en/stable/index.html) from Node.js app.
